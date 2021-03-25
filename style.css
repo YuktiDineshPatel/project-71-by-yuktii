@@ -1,0 +1,212 @@
+body {
+    text-align: center;
+}
+
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#9966ff, #ff99cc);
+    display: table;
+    width: 100%;
+    height: 100%;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+#name {
+    font-size: 40px;
+}
+
+#motto {
+    font-size: 20px;
+}
+
+#about_ {
+    font-family: 'Cinzel Decorative', cursive;
+    color: white;
+
+}
+
+.log {
+    height: 40px;
+    margin-bottom: 20px;
+}
+}
+
+.ambanii {
+    margin-right: 40px;
+}
+
+.ambaniimg {
+    margin-left: 40px;
+    height: 275px;
+    width: 200px;
+}
+
+.VIDYA {
+    cursor: pointer;
+}
+
+.ambani {
+    cursor: pointer;
+}
+
+.modal-title {
+    color: black;
+}
+
+.img_modal {
+    align-content: center;
+
+}
+
+.p_modal {
+    color: black
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+#alumni {
+    background: linear-gradient(#009999, #99ffcc);
+}
+
+#camplife {
+    background: linear-gradient(#ffffcc, #003366);
+}
+
+.nameofp {
+    color: ;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+#whatsnew {
+    background: linear-gradient(#ff6699, #ccccff);
+}
+
+h5 {
+    font-family: 'Hanalei', cursive;
+}
+
+.text-muted text-left {
+    font-family: color:white;
+}
+
+.list-group-item-text {
+    font-size: 20px;
+}
+
+.row::after {
+    content: ""
+        clear:both;
+    display: table;
+}
+
+.travelmainDiv {
+    width: 33.33%;
+    float: left;
+    padding: 5px;
+}
+
+.travelmainDiv {
+    width: 100% height:300px;
+}
+
+#marqueeStyle {
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+
+}
+
+.text-capitalize {
+    font-family: 'Hanalei', cursive;
+}
+
+#about {
+    font-family: serif;
+    padding: 50px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    background: linear-gradient(#ff6699, #ccccff);
+}
+
+.logo {
+    background-color: #0099cc;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#note {
+    color: antiquewhite;
+}
+
+#contact {
+    background: #99ffcc;
+}
+
+.line {
+    font-family: serif;
+    font-size: 20px;
+    color: white;
+}
+
+.movie_head i {
+    float: none;
+}
+
+#achievements {
+    background: linear-gradient(#ccccff, #000099);
+}
+
+input {
+    background: #33cccc;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    font-family: fantasy;
+    color: white;
+}
+
+h4 {
+    font-family: serif;
+}
+
+.nav1 {
+    background-color: palevioletred;
+}
+
+.nav2 {
+    background-color: palevioletred;
+}
+
+.nav3 {
+    background-color: palevioletred;
+}
+
+.nav4 {
+    background-color: palevioletred;
+}
+
+.nav5 {
+    background-color: palevioletred;
+}
+
+.nav6 {
+    background-color: palevioletred;
+}
